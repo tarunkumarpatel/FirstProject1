@@ -10,12 +10,12 @@ namespace DesignPattern
         static void Main(string[] args)
         {
 
-            Singleton std = Singleton.GetInstance;
-            std.Print("hii All Student");
-            std.Print("how r u all ?");
-            Singleton std1 = Singleton.GetInstance;
-            std.Print("hii All Student");
-            std.Print("how r u all ?");
+            //Singleton std = Singleton.GetInstance;
+            //std.Print("hii All Student");
+            //std.Print("how r u all ?");
+            //Singleton std1 = Singleton.GetInstance;
+            //std.Print("hii All Student");
+            //std.Print("how r u all ?");
             try
             {
                 string value = null;
