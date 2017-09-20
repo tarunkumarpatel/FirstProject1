@@ -9,13 +9,13 @@ namespace DesignPattern
     {
         static void Main(string[] args)
         {
-            //Singleton Emp= Singleton.GetInstance;
-            //Emp.Print("hii All Employyee");
-            //Emp.Print("how r u all ?");
+            Singleton Emp = Singleton.GetInstance;
+            Emp.Print("hii All Employyee");
+            Emp.Print("how r u all ?");
 
-            //Singleton std = Singleton.GetInstance;
-            //std.Print("hii All Student");
-            //std.Print("how r u all ?");
+            Singleton std = Singleton.GetInstance;
+            std.Print("hii All Student");
+            std.Print("how r u all ?");
             try
             {
                 string value = null;
@@ -24,6 +24,7 @@ namespace DesignPattern
                     Console.WriteLine(value); // <-- Never reached
                 }
             }
+
             catch (Exception ex)
             {
                 Console.WriteLine(ex.ToString());
