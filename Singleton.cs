@@ -28,8 +28,12 @@ namespace DesignPattern
             Console.WriteLine("counter:- {0}",_counter);
         }
 
-      
 
+
+        /// <summary>
+        /// Prints the specified MSG.
+        /// </summary>
+        /// <param name="msg">The MSG.</param>
         public void Print(string msg)
         {
             Console.WriteLine(msg);
