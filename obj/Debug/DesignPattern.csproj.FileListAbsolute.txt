@@ -1,0 +1,5 @@
+c:\users\tarunkumar.patel\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.exe
+c:\users\tarunkumar.patel\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\bin\Debug\DesignPattern.pdb
+c:\users\tarunkumar.patel\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.csprojResolveAssemblyReference.cache
+c:\users\tarunkumar.patel\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.exe
+c:\users\tarunkumar.patel\documents\visual studio 2015\Projects\DesignPattern\DesignPattern\obj\Debug\DesignPattern.pdb
